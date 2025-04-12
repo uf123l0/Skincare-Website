@@ -24,5 +24,9 @@ HTML
 CSS
 
 JavaScript
+
+Live Demo
+
+https://uf123l0.github.io/Skincare-Website/
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
